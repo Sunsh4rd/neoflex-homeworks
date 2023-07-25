@@ -9,7 +9,7 @@ public class DatabaseProxy implements IDatabase {
     }
 
     @Override
-    public String getDatabaseName() {
-        return "Connected to localhost:5432/" + database.getDatabaseName();
+    public void connect() {
+        System.out.println("Connected to localhost:5432/" + database.getDatabaseName());
     }
 }

@@ -8,8 +8,12 @@ public class DatabaseImpl implements IDatabase {
         this.databaseName = databaseName;
     }
 
-    @Override
     public String getDatabaseName() {
         return databaseName;
+    }
+
+    @Override
+    public void connect() {
+        System.out.println(databaseName);
     }
 }
