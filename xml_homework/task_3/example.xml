@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-model href="schema.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<order orderid="123">
+    <firstname></firstname>
+    <lastname></lastname>
+    <orderdate>2023-08-21</orderdate>
+    <deliverydate>2023-08-29</deliverydate>
+    <price>223.11</price>
+    <boxcount>3</boxcount>
+    <mobile>79998881122</mobile>
+</order>

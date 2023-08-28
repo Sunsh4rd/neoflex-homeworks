@@ -1,0 +1,44 @@
+<videoGames>
+    <videoGame>
+        <name>The Legend of Zelda: Ocarina of Time</name>
+        <position>1</position>
+        <score>99</score>
+        <platform>Nintendo 64</platform>
+        <year>1998</year>
+    </videoGame>
+    <videoGame>
+        <name>Tony Hawk's Pro Skater 2</name>
+        <position>2</position>
+        <score>98</score>
+        <platform>PlayStation</platform>
+        <year>2000</year>
+    </videoGame>
+    <videoGame>
+        <name>Grand Theft Auto IV</name>
+        <position>3</position>
+        <score>98</score>
+        <platform>PlayStation 3</platform>
+        <year>2008</year>
+    </videoGame>
+    <videoGame>
+        <name>Soul Calibur</name>
+        <position>4</position>
+        <score>98</score>
+        <platform>Dreamcast</platform>
+        <year>1999</year>
+    </videoGame>
+    <videoGame>
+        <name>Grand Theft Auto IV</name>
+        <position>5</position>
+        <score>98</score>
+        <platform>Xbox 360</platform>
+        <year>2008</year>
+    </videoGame>
+    <videoGame>
+        <name>Super Mario Galaxy</name>
+        <position>6</position>
+        <score>97</score>
+        <platform>Wii</platform>
+        <year>2007</year>
+    </videoGame>
+</videoGames>
